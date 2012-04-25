@@ -10,7 +10,8 @@
 	
 	<modules>
 		<module>commons-validation</module>
-	</modules>
+        <module>maven-surefire-report-verifier-plugin</module>
+    </modules>
 	
 	<build>
 		<pluginManagement>
